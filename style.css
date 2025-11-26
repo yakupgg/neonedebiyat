@@ -1,0 +1,7 @@
+body {background:#0b0f19;font-family:Arial;color:#d3e8ff;margin:0;}
+nav {display:flex;justify-content:center;gap:30px;background:#0d1221;padding:20px;border-bottom:1px solid #0ff;}
+nav a {color:#0ff;text-decoration:none;font-size:18px;transition:0.3s;}
+nav a:hover {color:#fff;text-shadow:0 0 10px #0ff;}
+.container {width:90%;max-width:900px;margin:40px auto;}
+h1,h2 {color:#64d7ff;text-shadow:0 0 15px #00c9ff;}
+.card {background:#101627;padding:20px;margin-top:20px;border-left:4px solid #00d0ff;border-radius:8px;}
